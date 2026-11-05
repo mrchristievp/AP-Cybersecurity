@@ -1,4 +1,4 @@
-# AP Cybersecurity
+# Viewpoint AP Cybersecurity
 
 Course website: https://mrchristievp.github.io/AP-Cybersecurity/
 
@@ -20,3 +20,12 @@ GitHub Pages serves the root folder of the `main` branch. Upload changes to publ
 - `.nojekyll`: static hosting
 
 Original provider files and student information are not included. This is a classroom resource, not an official College Board website.
+
+## Linked resources
+
+- Unit 1: Friday Afternoon Incident case study; Hugging Face investigation.
+- Unit 2: physical risk notes, layered security notes, social engineering activity, security planning activity, NEXUS project and worksheet, and Cyber Study Lab.
+- Unit 3: Linux notes and worksheet, ARP and on-path attacks worksheet, and Linux practice.
+- Units 4 and 5: the shared Units 4–5 Study Suite.
+
+Google Docs links retain their existing Viewpoint account access. Teacher keys, assessments, and private documents are not listed.
